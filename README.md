@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>I am a computer-science engineer and software developer with a passion for building efficient, scalable, and maintainable software. Via my GitHub (see profile), I demonstrate my love for clean code, continuous learning, and hands-on practice across multiple domains.<br><br>💻 Main skills & tools: 💻 Main Skills & Tools
+<br><br>I am a computer-science engineer and software developer with a passion for building efficient, scalable, and maintainable software. Via my GitHub (see profile), I demonstrate my love for clean code, continuous learning, and hands-on practice across multiple domains.<br><br>💻 Main skills & tools:
 
 Programming Languages:
 
